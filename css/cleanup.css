@@ -1,1 +1,24 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+#wall .tag-2 {
+    background:none;
+}
+#wall .tag-2 {
+    z-index: 0;
+}
+#wall .tag-3 {
+    background:none;
+}#wall .tag-1 {
+    display: none;
+  }
+#wall .tag-2 {
+    background:none;
+}
+#wall .tag-2 {
+    z-index: 0;
+}
+#wall .tag-3 {
+    background:none;
+}
